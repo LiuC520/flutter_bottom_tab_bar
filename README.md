@@ -2,7 +2,7 @@
 
  bottom_tab_bar, the same to bottom_navigation_bar, but add some new features.
 
-## Getting Started
+##
 ![bottomtabbar](/screenshot.png)
 
 For help getting started with Flutter, view our online [documentation](https://flutter.io/).
@@ -56,6 +56,21 @@ the Badge ,used for unread message ...
 ### [new]  badgeNo : ```String```
 the Badge number , unread message ...
 
+
+## How to Use?
+
+first import dependeny in pubspec.yaml
+
+```
+dependencies:
+  flutter:
+    sdk: flutter
+  bottom_tab_bar:
+    git: https://github.com/LiuC520/flutter_bottom_tab_bar.git
+
+```
+
+example:
 
 ```
 
